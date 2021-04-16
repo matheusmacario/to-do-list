@@ -3,10 +3,19 @@
 <br>
 <br>
 
-![screenshot1](https://github.com/matheusmacario/to-do-list/blob/main/screenshot1.JPG) 
+### How it is :
+
 <br>
+
+![gif](https://github.com/matheusmacario/to-do-list/blob/main/todo_list.gif) 
+
+
+### Some Screenshot :
+
 <br>
-![screenshot2](https://github.com/matheusmacario/to-do-list/blob/main/screenshot2.JPG)
+
+![screenshot1](https://github.com/matheusmacario/to-do-list/blob/main/screenshot.JPG) 
+
 
 
 
